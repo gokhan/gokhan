@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **gokhan/gokhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://app.daily.dev/gokhanefe"><img src="https://api.daily.dev/devcards/b89b3e9ce8bb41c8a2d3f672861d50c7.png?r=quc" width="400" alt="Gokhan Efe's Dev Card"/></a>
